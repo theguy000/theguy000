@@ -1,0 +1,26 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Language detection overrides
+*.py linguist-language=Python
+*.js linguist-language=JavaScript
+*.html linguist-language=HTML
+*.css linguist-language=CSS
+*.java linguist-language=Java
+*.cpp linguist-language=C++
+*.c linguist-language=C
+*.sql linguist-language=SQL
+
+# Exclude certain files from language statistics
+*.md linguist-documentation
+*.txt linguist-documentation
+*.json linguist-data
+*.xml linguist-data
+*.yml linguist-data
+*.yaml linguist-data
+
+# Mark vendor files as vendored to exclude from stats
+vendor/* linguist-vendored
+node_modules/* linguist-vendored
+*.min.js linguist-vendored
+*.min.css linguist-vendored
