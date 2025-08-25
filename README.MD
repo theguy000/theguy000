@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theguy000&label=Profile%20views&color=0e75b6&style=flat" alt="theguy000" /> </p>
 
-🌐 "Transforming Data into Insights and Innovations"
+✨ **"Transforming Data into Intelligence, Code into Innovation"** ✨
+*Bridging the gap between complex algorithms and real-world solutions*
 
 ## About Me:
 
@@ -36,7 +37,7 @@
 
    - **Email**: Istiakm30@gmail.com
    - **LinkedIn**: [Istiak Mahmud](https://www.linkedin.com/in/theguy007/)
-   - **Discord**: [theguy000](https://discord.gg/6CtWVWV)
+   - **Discord**: theguy007
 
 ## 🛠️ Languages and Tools:
 
@@ -74,7 +75,7 @@
 **🔧 Test Automation**
 <br><br>
 <a href="https://cypress.io" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/cypress" alt="cypress" width="45" height="45"/> </a>
-<a href="https://playwright.dev" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/playwright.svg" alt="playwright" width="45" height="45"/> </a>
+<a href="https://playwright.dev" target="_blank" rel="noreferrer"> <img src="https://cdn.brandfetch.io/idpyc8TcWP/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1751115292804" alt="playwright" width="45" height="45"/> </a>
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/selenium" alt="selenium" width="45" height="45"/> </a>
 
 </td>
@@ -83,7 +84,7 @@
 **🌐 API Testing**
 <br><br>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/postman" alt="postman" width="45" height="45"/> </a>
-<a href="https://hoppscotch.io" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/hoppscotch" alt="hoppscotch" width="45" height="45"/> </a>
+<a href="https://hoppscotch.io" target="_blank" rel="noreferrer"> <img src="https://cdn.brandfetch.io/iduhWOn2V_/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1752113316238" alt="hoppscotch" width="45" height="45"/> </a>
 
 </td>
 <td align="center" width="200">
@@ -123,7 +124,7 @@
 <br><br>
 <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/githubactions" alt="github-actions" width="45" height="45"/> </a>
 <a href="https://jenkins.io" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/jenkins" alt="jenkins" width="45" height="45"/> </a>
-<a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/circleci" alt="circleci" width="45" height="45"/> </a>
+<a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://cdn.brandfetch.io/idO7AtAVTD/w/374/h/374/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1701094241363" alt="circleci" width="45" height="45"/> </a>
 
 </td>
 </tr>
@@ -161,6 +162,7 @@
 **Databases & Cloud:**
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+<a href="https://supabase.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.brandfetch.io/idsSceG8fK/w/436/h/449/theme/dark/symbol.png?c=1bxid64Mup7aczewSAYMX&t=1668081497517" alt="supabase" width="40" height="40"/> </a>
 
 **Development Tools:**
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
