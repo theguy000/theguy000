@@ -7,14 +7,16 @@
 
 ## About Me:
 
-<img align="right" alt="Coding" width="400" src="https://github.com/theguy000/theguy000/blob/main/me.png">
-
    - Computer Science Engineer with 6+ years of experience in Data Science, ML/AI Engineering, and Software QA.
    - Proficient in Machine Learning, Deep Learning, NLP, Computer Vision, and LLM technologies.
    - Skilled in frameworks: Flask, FastAI, TensorFlow, PyTorch, and modern web technologies.
    - Expert in data analysis, visualization, image processing, and end-to-end ML solution deployment.
    - Quality Assurance specialist with expertise in automated testing, test case design, and software validation.
    - B.Sc. in Computer Science & Engineering from City University.
+
+<div align="center">
+<img alt="Coding" width="400" src="https://github.com/theguy000/theguy000/blob/main/me.png">
+</div>
 
 ## Technical Expertise:
 
@@ -65,49 +67,96 @@
 
 **Testing & QA:**
 
-*Test Automation:*
-<a href="https://cypress.io" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/cypress" alt="cypress" width="40" height="40"/> </a>
-<a href="https://playwright.dev" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/playwright.svg" alt="playwright" width="40" height="40"/> </a>
-<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/selenium" alt="selenium" width="40" height="40"/> </a>
+<table align="center">
+<tr>
+<td align="center" width="200">
 
-*API Testing:*
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/postman" alt="postman" width="40" height="40"/> </a>
-<a href="https://hoppscotch.io" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/hoppscotch" alt="hoppscotch" width="40" height="40"/> </a>
+**🔧 Test Automation**
+<br><br>
+<a href="https://cypress.io" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/cypress" alt="cypress" width="45" height="45"/> </a>
+<a href="https://playwright.dev" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/playwright.svg" alt="playwright" width="45" height="45"/> </a>
+<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/selenium" alt="selenium" width="45" height="45"/> </a>
 
-*Performance Testing:*
-<a href="https://jmeter.apache.org" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/apachejmeter" alt="jmeter" width="40" height="40"/> </a>
-<a href="https://gatling.io" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/gatling" alt="gatling" width="40" height="40"/> </a>
-<a href="https://k6.io" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/k6" alt="k6" width="40" height="40"/> </a>
+</td>
+<td align="center" width="200">
 
-*Browser Testing:*
-<a href="https://www.browserstack.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/browserstack/browserstack-icon.svg" alt="browserstack" width="40" height="40"/> </a>
-<a href="https://saucelabs.com" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/saucelabs" alt="saucelabs" width="40" height="40"/> </a>
-<a href="https://www.lambdatest.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/lambdatest.svg" alt="lambdatest" width="40" height="40"/> </a>
+**🌐 API Testing**
+<br><br>
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/postman" alt="postman" width="45" height="45"/> </a>
+<a href="https://hoppscotch.io" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/hoppscotch" alt="hoppscotch" width="45" height="45"/> </a>
 
-*Test Management:*
-<a href="https://www.tricentis.com/products/qtest" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/tricentis" alt="qtest" width="40" height="40"/> </a>
-<a href="https://www.gurock.com/testrail" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/testrail" alt="testrail" width="40" height="40"/> </a>
-<a href="https://smartbear.com/product/zephyr" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getzephyr/getzephyr-icon.svg" alt="zephyr" width="40" height="40"/> </a>
+</td>
+<td align="center" width="200">
 
-*CI/CD Integration:*
-<a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/githubactions" alt="github-actions" width="40" height="40"/> </a>
-<a href="https://jenkins.io" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/jenkins" alt="jenkins" width="40" height="40"/> </a>
-<a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/circleci" alt="circleci" width="40" height="40"/> </a>
+**⚡ Performance Testing**
+<br><br>
+<a href="https://jmeter.apache.org" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/apachejmeter" alt="jmeter" width="45" height="45"/> </a>
+<a href="https://gatling.io" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/gatling" alt="gatling" width="45" height="45"/> </a>
+<a href="https://k6.io" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/k6" alt="k6" width="45" height="45"/> </a>
 
-*Security Testing:*
-<a href="https://owasp.org/www-project-zap" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/owasp" alt="owasp-zap" width="40" height="40"/> </a>
-<a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/burpsuite" alt="burp-suite" width="40" height="40"/> </a>
-<a href="https://sonarqube.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/sonarqube.svg" alt="sonarqube" width="40" height="40"/> </a>
-<a href="https://snyk.io" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/snyk" alt="snyk" width="40" height="40"/> </a>
+</td>
+</tr>
+<tr>
+<td align="center" width="200">
 
-*Mobile Testing:*
-<a href="https://appium.io" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/appium" alt="appium" width="40" height="40"/> </a>
+**🌍 Cross-Browser Testing**
+<br><br>
+<a href="https://www.browserstack.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/browserstack/browserstack-icon.svg" alt="browserstack" width="45" height="45"/> </a>
+<a href="https://saucelabs.com" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/saucelabs" alt="saucelabs" width="45" height="45"/> </a>
+<a href="https://www.lambdatest.com" target="_blank" rel="noreferrer">
+  <img src="https://cdn.brandfetch.io/idp9sJ7EgD/theme/light/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1700519446130" alt="lambdatest" width="45" height="45"/>
+</a>
 
-*Unit Testing Frameworks:*
-<a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"> <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="junit" width="40" height="40"/> </a>
-<a href="https://testng.org" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/12528662?s=200&v=4" alt="testng" width="40" height="40"/> </a>
-<a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
-<a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a>
+</td>
+<td align="center" width="200">
+
+**📋 Test Management**
+<br><br>
+<a href="https://www.tricentis.com/products/qtest" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/tricentis" alt="qtest" width="45" height="45"/> </a>
+<a href="https://www.gurock.com/testrail" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/testrail" alt="testrail" width="45" height="45"/> </a>
+<a href="https://smartbear.com/product/zephyr" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getzephyr/getzephyr-icon.svg" alt="zephyr" width="45" height="45"/> </a>
+
+</td>
+<td align="center" width="200">
+
+**🔄 CI/CD Integration**
+<br><br>
+<a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/githubactions" alt="github-actions" width="45" height="45"/> </a>
+<a href="https://jenkins.io" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/jenkins" alt="jenkins" width="45" height="45"/> </a>
+<a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/circleci" alt="circleci" width="45" height="45"/> </a>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="200">
+
+**🔒 Security Testing**
+<br><br>
+<a href="https://owasp.org/www-project-zap" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/owasp" alt="owasp-zap" width="45" height="45"/> </a>
+<a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/burpsuite" alt="burp-suite" width="45" height="45"/> </a>
+<a href="https://sonarqube.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/sonarqube.svg" alt="sonarqube" width="45" height="45"/> </a>
+<a href="https://snyk.io" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/snyk" alt="snyk" width="45" height="45"/> </a>
+
+</td>
+<td align="center" width="200">
+
+**📱 Mobile Testing**
+<br><br>
+<a href="https://appium.io" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/appium" alt="appium" width="45" height="45"/> </a>
+
+</td>
+<td align="center" width="200">
+
+**🧪 Unit Testing**
+<br><br>
+<a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"> <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="junit" width="45" height="45"/> </a>
+<a href="https://testng.org" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/12528662?s=200&v=4" alt="testng" width="45" height="45"/> </a>
+<a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="45" height="45"/> </a>
+<a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="45" height="45"/> </a>
+
+</td>
+</tr>
+</table>
 
 **Databases & Cloud:**
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
