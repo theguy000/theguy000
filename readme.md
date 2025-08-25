@@ -103,7 +103,9 @@
 
 ## GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=theguy000&theme=darkhub&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=theguy000&theme=onedark&no-frame=false&no-bg=false&margin-w=4&margin-h=4&column=7" alt="GitHub Trophies" />
+  </a>
 </div>
 
 ---
