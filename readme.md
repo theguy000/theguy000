@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Istiak Mahmud</h1>
 <h3 align="center">A passionate Data scientist and ML/AI and Software QA engineer with 6 year of experience and years of practical skills in Data Science, ML Engineering, and Data Analysis. Known for exceptional work ethics, discipline in meeting deadlines, and a strong commitment to continuous skill development. Eager to contribute expertise to the Software and Tech industry</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/theguy000/theguy000/blob/main/me.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theguy000&label=Profile%20views&color=0e75b6&style=flat" alt="theguy000" /> </p>
 
 🌐 "Transforming Data into Insights and Innovations"
 
 ## About Me:
+
+<img align="right" alt="Coding" width="400" src="https://github.com/theguy000/theguy000/blob/main/me.png">
 
    - Computer Science Engineer with 6+ years of experience in Data Science, ML/AI Engineering, and Software QA.
    - Proficient in Machine Learning, Deep Learning, NLP, Computer Vision, and LLM technologies.
@@ -31,7 +32,7 @@
 
 ## 📫 Let's Connect:
 
-   - **Email**: sanjid15-11888@diu.edu.bd
+   - **Email**: Istiakm30@gmail.com
    - **LinkedIn**: [Istiak Mahmud](https://www.linkedin.com/in/theguy007/)
 
 
