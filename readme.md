@@ -89,8 +89,6 @@
 <!-- GitHub's Native Achievements -->
 <div align="center">
   <h3>🏆 GitHub Achievements</h3>
-  <p>🌟 Check out my <a href="https://github.com/theguy000?tab=achievements">GitHub Achievements</a> to see my coding milestones!</p>
-  <img src="https://github-profile-trophy.vercel.app/?username=theguy000&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub Achievements" />
 </div>
 
 <br/>
