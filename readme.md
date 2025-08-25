@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Md. Sanjid Hossain</h1>
-<h3 align="center">A passionate Data scientist and ML/AI engineer backed by approximately 1 year of experience and few years of practical skills in Data Science, ML Engineering, and Data Analysis. Known for exceptional work ethics, discipline in meeting deadlines, and a strong commitment to continuous skill development. Eager to contribute expertise to the Software and Tech industry</h3>
+<h1 align="center">Hi 👋, I'm Istiak Mahmud</h1>
+<h3 align="center">A passionate Data scientist and ML/AI and Software QA engineer with 6 year of experience and years of practical skills in Data Science, ML Engineering, and Data Analysis. Known for exceptional work ethics, discipline in meeting deadlines, and a strong commitment to continuous skill development. Eager to contribute expertise to the Software and Tech industry</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/theguy000/theguy000/blob/main/me.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theguy000&label=Profile%20views&color=0e75b6&style=flat" alt="theguy000" /> </p>
@@ -15,7 +15,7 @@
    - Expert in data analysis, visualization, and image processing.
    - Passionate about deploying end-to-end ML solutions and developing applications in NLP and Computer Vision.
    - Quality Assurance specialist with experience in automated testing, test case design, and software validation.
-   - B.Sc. in Computer Science & Engineering from Daffodil International University.
+   - B.Sc. in Computer Science & Engineering from City University.
 
 ## Expertise:
 
@@ -40,7 +40,7 @@
 ## Let's Connect & Collaborate:
 
    - Email: sanjid15-11888@diu.edu.bd
-   - LinkedIn: [@Md Sanjid Hossian](https://www.linkedin.com/in/md-sanjid-hossain-00b153184/)
+   - LinkedIn: [[Istiak Mahmud]](https://www.linkedin.com/in/theguy007/)
 
 
 <h3 align="left">Languages and Tools:</h3>
