@@ -13,7 +13,6 @@
    - Skilled in frameworks: Flask, FastAI, TensorFlow, PyTorch, and modern web technologies.
    - Expert in data analysis, visualization, image processing, and end-to-end ML solution deployment.
    - Quality Assurance specialist with expertise in automated testing, test case design, and software validation.
-   - B.Sc. in Computer Science & Engineering from City University.
 
 <div align="center">
 <img alt="Coding" width="400" src="https://github.com/theguy000/theguy000/blob/main/me.png">
