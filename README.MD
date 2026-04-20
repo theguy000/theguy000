@@ -14,10 +14,6 @@
    - Expert in data analysis, visualization, image processing, and end-to-end ML solution deployment.
    - Quality Assurance specialist with expertise in automated testing, test case design, and software validation.
 
-<div align="center">
-<img alt="Coding" width="400" src="https://github.com/theguy000/theguy000/blob/main/me.png">
-</div>
-
 ## Technical Expertise:
 
    - **ML/AI**: Model Deployment, Data ETL, Data Science Lifecycle, CNN, RNN, LSTM, Transformer architectures.
